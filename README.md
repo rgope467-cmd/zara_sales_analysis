@@ -120,7 +120,7 @@ zara-sales-analysis/
 ## Dashboard Preview
 
 <img width="1420" height="794" alt="Screenshot 2026-06-19 160221" src="https://github.com/user-attachments/assets/4b67c95a-297f-4ccd-acaa-8317d15b7036" />
-![Zara Sales Dashboard](dashboard.png)
+
 
 
 ## Author
